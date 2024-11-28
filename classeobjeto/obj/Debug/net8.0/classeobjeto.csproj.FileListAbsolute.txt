@@ -1,0 +1,15 @@
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.sourcelink.json
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\bin\Debug\net8.0\classeobjeto.exe
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\bin\Debug\net8.0\classeobjeto.deps.json
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\bin\Debug\net8.0\classeobjeto.runtimeconfig.json
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\bin\Debug\net8.0\classeobjeto.dll
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\bin\Debug\net8.0\classeobjeto.pdb
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.dll
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\refint\classeobjeto.dll
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.pdb
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\classeobjeto.genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\treino classe\classeobjeto\obj\Debug\net8.0\ref\classeobjeto.dll

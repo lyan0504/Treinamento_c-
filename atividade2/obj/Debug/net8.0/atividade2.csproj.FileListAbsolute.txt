@@ -1,0 +1,15 @@
+C:\Users\vboxuser\Desktop\treino classe\atividade2\bin\Debug\net8.0\atividade2.exe
+C:\Users\vboxuser\Desktop\treino classe\atividade2\bin\Debug\net8.0\atividade2.deps.json
+C:\Users\vboxuser\Desktop\treino classe\atividade2\bin\Debug\net8.0\atividade2.runtimeconfig.json
+C:\Users\vboxuser\Desktop\treino classe\atividade2\bin\Debug\net8.0\atividade2.dll
+C:\Users\vboxuser\Desktop\treino classe\atividade2\bin\Debug\net8.0\atividade2.pdb
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.AssemblyInfoInputs.cache
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.AssemblyInfo.cs
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.csproj.CoreCompileInputs.cache
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.sourcelink.json
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.dll
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\refint\atividade2.dll
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.pdb
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\atividade2.genruntimeconfig.cache
+C:\Users\vboxuser\Desktop\treino classe\atividade2\obj\Debug\net8.0\ref\atividade2.dll
